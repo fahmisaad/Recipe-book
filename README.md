@@ -1,6 +1,6 @@
 # Simple Recipe book
 
-This is a simple project to demonstrate add,edit,delete. Also include temporary store data function.
+This is a simple project to demonstrate add,edit,delete. Also include on how data shared between pages.
 
 
 ## Development server
